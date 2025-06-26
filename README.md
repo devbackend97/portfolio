@@ -35,7 +35,7 @@ src/
 
 1. **Cloner le repository**
    ```bash
-   git clone <url-du-repo>
+   git clone https://github.com/devbackend97/portfolio.git
    cd portfolio
    ```
 
